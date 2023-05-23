@@ -1,0 +1,176 @@
+Please enter the contact file name: PhoneBook-sample1.txt
+Loading the phonebook into a BST.
+Phonebook creation in BST took 0 milliseconds. . .
+The tree is not balanced
+The heights of BST are for left: 5 and right: 7
+loading the phonebook into an AVL
+Phonebook creation in AVL took 0 milliseconds. . .
+The tree is balanced
+The heights of AVL are for left: 4 and right: 3
+
+
+Choose which action to perform from 1 to 6:
+1 - Search a phonebook contact
+2 - Adding a phonebook contact
+3 - Deleting a phonebook contact
+4 - Print the phonebook to a file(inorder)
+ Print the phoenbook to a file(preorder)
+5 - Draw the phonebook as a Tree to a file
+6 - Press 6 to exit
+1
+
+Search for a contact: JOHN WATSON
+
+Searching an item in the phonebook (BST) . . .
+
+Phonebook: Searching for: (JOHN WATSON)
+====================================
+JOHN WATSON +905550292913 Izmir
+
+Searching an item in the phonebook (AVL) . . .
+
+Phonebook: Section: (JOHN WATSON)
+====================================
+JOHN WATSON +905550292913 Izmir
+
+The search in BST took 46900 nanoseconds. . .
+The search in AVL took 28600 nanoseconds. . .
+
+Choose which action to perform from 1 to 6:
+1 - Search a phonebook contact
+2 - Adding a phonebook contact
+3 - Deleting a phonebook contact
+4 - Print the phonebook to a file(inorder)
+ Print the phoenbook to a file(preorder)
+5 - Draw the phonebook as a Tree to a file
+6 - Press 6 to exit
+2
+
+Enter the information of the contact to be added:
+Name:
+Gulsen Demiroz
+
+Tel: 2325674899
+
+City: izmir
+
+Adding an item to the phonebook BST . . .
+====================================
+Contact has been added successfully to the BST
+
+Adding an item to the phonebook (AVL) . . .
+====================================
+Contact has been added successfully to the AVL Tree
+
+Adding a contact to the Binary Tree took 28200 nanoseconds. . .
+Adding a contact to the AVL Tree took 29900 nanoseconds. . .
+
+Choose which action to perform from 1 to 6:
+1 - Search a phonebook contact
+2 - Adding a phonebook contact
+3 - Deleting a phonebook contact
+4 - Print the phonebook to a file(inorder)
+ Print the phoenbook to a file(preorder)
+5 - Draw the phonebook as a Tree to a file
+6 - Press 6 to exit
+1
+
+Search for a contact: gulsen demiroz
+
+Searching an item in the phonebook (BST) . . .
+
+Phonebook: Searching for: (GULSEN DEMIROZ)
+====================================
+GULSEN DEMIROZ 2325674899 izmir
+
+Searching an item in the phonebook (AVL) . . .
+
+Phonebook: Section: (GULSEN DEMIROZ)
+====================================
+GULSEN DEMIROZ 2325674899 izmir
+
+The search in BST took 31100 nanoseconds. . .
+The search in AVL took 22900 nanoseconds. . .
+
+Choose which action to perform from 1 to 6:
+1 - Search a phonebook contact
+2 - Adding a phonebook contact
+3 - Deleting a phonebook contact
+4 - Print the phonebook to a file(inorder)
+ Print the phoenbook to a file(preorder)
+5 - Draw the phonebook as a Tree to a file
+6 - Press 6 to exit
+3
+
+Deleting an item from the phonebook . . .
+Enter the fullname of the contact to be deleted: gulsen demiroz
+
+Deleted succcessfully. . .
+
+Deletion from the Binary Tree took 900 nanoseconds. . .
+Deletion from AVL Tree took 32800 nanoseconds. . .
+
+Choose which action to perform from 1 to 6:
+1 - Search a phonebook contact
+2 - Adding a phonebook contact
+3 - Deleting a phonebook contact
+4 - Print the phonebook to a file(inorder)
+ Print the phoenbook to a file(preorder)
+5 - Draw the phonebook as a Tree to a file
+6 - Press 6 to exit
+1
+
+Search for a contact: gulsen
+
+Searching an item in the phonebook (BST) . . .
+
+Phonebook: Searching for: (GULSEN)
+====================================
+GULSEN DEMIROZ 2325674899 izmir
+
+Searching an item in the phonebook (AVL) . . .
+
+Phonebook: Section: (GULSEN)
+====================================
+
+The search in BST took 28500 nanoseconds. . .
+The search in AVL took 9800 nanoseconds. . .
+
+Choose which action to perform from 1 to 6:
+1 - Search a phonebook contact
+2 - Adding a phonebook contact
+3 - Deleting a phonebook contact
+4 - Print the phonebook to a file(inorder)
+ Print the phoenbook to a file(preorder)
+5 - Draw the phonebook as a Tree to a file
+6 - Press 6 to exit
+4
+
+Printing in order to file from the Binary Tree took 230000 nanoseconds. . .
+Printing in order to file from AVL Tree took 177000 nanoseconds. . .
+Printing pre order to file from the Binary Tree took 164300 nanoseconds. . .
+Printing pre order to file from AVL Tree took 208000 nanoseconds. . .
+
+Choose which action to perform from 1 to 6:
+1 - Search a phonebook contact
+2 - Adding a phonebook contact
+3 - Deleting a phonebook contact
+4 - Print the phonebook to a file(inorder)
+ Print the phoenbook to a file(preorder)
+5 - Draw the phonebook as a Tree to a file
+6 - Press 6 to exit
+5
+
+Drawing tree to file from the Binary Tree took 361200 nanoseconds. . .
+Drawing tree to file from AVL Tree took 269900 nanoseconds. . .
+
+Choose which action to perform from 1 to 6:
+1 - Search a phonebook contact
+2 - Adding a phonebook contact
+3 - Deleting a phonebook contact
+4 - Print the phonebook to a file(inorder)
+ Print the phoenbook to a file(preorder)
+5 - Draw the phonebook as a Tree to a file
+6 - Press 6 to exit
+6
+Exiting...

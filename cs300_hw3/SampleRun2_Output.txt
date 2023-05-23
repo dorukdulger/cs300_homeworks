@@ -1,0 +1,92 @@
+Please enter the contact file name: PhoneBook-sample2.txt
+Loading the phonebook into a BST.
+Phonebook creation in BST took 0 milliseconds. . .
+The tree is not balanced
+The heights of BST are for left: 1 and right: 17
+loading the phonebook into an AVL
+Phonebook creation in AVL took 0 milliseconds. . .
+The tree is balanced
+The heights of AVL are for left: 8 and right: 7
+
+
+Choose which action to perform from 1 to 6:
+1 - Search a phonebook contact
+2 - Adding a phonebook contact
+3 - Deleting a phonebook contact
+4 - Print the phonebook to a file(inorder)
+    Print the phonebook to a file(preorder)
+5 - Draw the phonebook as a Tree to a file
+6 - Press 6 to exit
+1
+
+Search for a contact: JA
+
+Searching an item in the phonebook (BST) . . .
+
+Phonebook: Searching for: (JA)
+====================================
+JAMES SHAW +905588901065 Mugla
+JACK ESPINOZA +905570013140 Ankara
+JAMES BUTLER +905539178218 Mugla
+JAIME STRINGHAM +905556375012 Mugla
+JACKIE MANGUAL +905579659800 Bursa
+JACQUELINE BEHNING +905582392701 Bursa
+JAMES FOX +905551811827 Istanbul
+JAMES VALENTINE +905596208501 Istanbul
+JASON NABITY +905539970102 Bursa
+
+Searching an item in the phonebook (AVL) . . .
+
+Phonebook: Section: (JA)
+====================================
+JAIME STRINGHAM +905556375012 Mugla
+JACK ESPINOZA +905570013140 Ankara
+JACKIE MANGUAL +905579659800 Bursa
+JACQUELINE BEHNING +905582392701 Bursa
+JAMES SHAW +905588901065 Mugla
+JAMES BUTLER +905539178218 Mugla
+JAMES FOX +905551811827 Istanbul
+JAMES VALENTINE +905596208501 Istanbul
+JASON NABITY +905539970102 Bursa
+
+The search in BST took 348300 nanoseconds. . .
+The search in AVL took 284000 nanoseconds. . .
+
+Choose which action to perform from 1 to 6:
+1 - Search a phonebook contact
+2 - Adding a phonebook contact
+3 - Deleting a phonebook contact
+4 - Print the phonebook to a file(inorder)
+    Print the phonebook to a file(preorder)
+5 - Draw the phonebook as a Tree to a file
+6 - Press 6 to exit
+4
+
+Printing in order to file from the Binary Tree took 12989200 nanoseconds. . .
+Printing in order to file from AVL Tree took 1575000 nanoseconds. . .
+Printing pre order to file from the Binary Tree took 1622100 nanoseconds. . .
+Printing pre order to file from AVL Tree took 1715600 nanoseconds. . .
+
+Choose which action to perform from 1 to 6:
+1 - Search a phonebook contact
+2 - Adding a phonebook contact
+3 - Deleting a phonebook contact
+4 - Print the phonebook to a file(inorder)
+    Print the phonebook to a file(preorder)
+5 - Draw the phonebook as a Tree to a file
+6 - Press 6 to exit
+5
+
+Drawing tree to file from the Binary Tree took 14417300 nanoseconds. . .
+Drawing tree to file from AVL Tree took 3481200 nanoseconds. . .
+
+Choose which action to perform from 1 to 6:
+1 - Search a phonebook contact
+2 - Adding a phonebook contact
+3 - Deleting a phonebook contact
+4 - Print the phonebook to a file(inorder)
+    Print the phonebook to a file(preorder)
+5 - Draw the phonebook as a Tree to a file
+6 - Press 6 to exit
+6
+Exiting...

@@ -1,0 +1,80 @@
+Please enter the contact file name: PhoneBook-sample3.txt
+Loading the phonebook into a BST.
+Phonebook creation in BST took 0 milliseconds. . .
+The tree is not balanced
+The heights of BST are for left: 9 and right: 12
+loading the phonebook into an AVL
+Phonebook creation in AVL took 0 milliseconds. . .
+The tree is balanced
+The heights of AVL are for left: 7 and right: 6
+
+
+Choose which action to perform from 1 to 6:
+1 - Search a phonebook contact
+2 - Adding a phonebook contact
+3 - Deleting a phonebook contact
+4 - Print the phonebook to a file(inorder)
+    Print the phonebook to a file(preorder)
+5 - Draw the phonebook as a Tree to a file
+6 - Press 6 to exit
+1
+
+Search for a contact: Gul
+
+Searching an item in the phonebook (BST) . . .
+
+Phonebook: Searching for: (GUL)
+====================================
+GULSAH DEMIRTAS +905431234452 Izmir
+GUL CERISCI +905314429933 Izmir
+GULSEN DEMIROZ +905523221123 Istanbul
+
+Searching an item in the phonebook (AVL) . . .
+
+Phonebook: Section: (GUL)
+====================================
+GULSAH DEMIRTAS +905431234452 Izmir
+GUL CERISCI +905314429933 Izmir
+GULSEN DEMIROZ +905523221123 Istanbul
+
+The search in BST took 73800 nanoseconds. . .
+The search in AVL took 48700 nanoseconds. . .
+
+Choose which action to perform from 1 to 6:
+1 - Search a phonebook contact
+2 - Adding a phonebook contact
+3 - Deleting a phonebook contact
+4 - Print the phonebook to a file(inorder)
+    Print the phonebook to a file(preorder)
+5 - Draw the phonebook as a Tree to a file
+6 - Press 6 to exit
+4
+
+Printing in order to file from the Binary Tree took 1177800 nanoseconds. . .
+Printing in order to file from AVL Tree took 1091000 nanoseconds. . .
+Printing pre order to file from the Binary Tree took 1051100 nanoseconds. . .
+Printing pre order to file from AVL Tree took 795400 nanoseconds. . .
+
+Choose which action to perform from 1 to 6:
+1 - Search a phonebook contact
+2 - Adding a phonebook contact
+3 - Deleting a phonebook contact
+4 - Print the phonebook to a file(inorder)
+    Print the phonebook to a file(preorder)
+5 - Draw the phonebook as a Tree to a file
+6 - Press 6 to exit
+5
+
+Drawing tree to file from the Binary Tree took 2275000 nanoseconds. . .
+Drawing tree to file from AVL Tree took 1873100 nanoseconds. . .
+
+Choose which action to perform from 1 to 6:
+1 - Search a phonebook contact
+2 - Adding a phonebook contact
+3 - Deleting a phonebook contact
+4 - Print the phonebook to a file(inorder)
+    Print the phonebook to a file(preorder)
+5 - Draw the phonebook as a Tree to a file
+6 - Press 6 to exit
+6
+Exiting...

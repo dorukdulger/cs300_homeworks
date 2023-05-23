@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4F41DB82-C95A-498E-8562-F3879F782B9D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "825D3E9E-9354-4E1A-8DBA-84CA2EB5F083"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cs300_hw3/AvlTree.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "408"
+            endingLineNumber = "408"
+            landmarkName = "drawTreeToFileHelper(file, node, level, is_right)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "825D3E9E-9354-4E1A-8DBA-84CA2EB5F083 - 7a2af11740c7f316"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AVLTree&lt;Contact&gt;::drawTreeToFileHelper(std::__1::basic_ofstream&lt;char, std::__1::char_traits&lt;char&gt; &gt;&amp;, AvlNode&lt;Contact&gt; const*, int) const"
+                  moduleName = "cs300_hw3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dorukdulger/Desktop/cs300_hw3/cs300_hw3/AvlTree.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "379"
+                  endingLineNumber = "379"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "825D3E9E-9354-4E1A-8DBA-84CA2EB5F083 - 7a2af11740c7f08a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AVLTree&lt;Contact&gt;::drawTreeToFileHelper(std::__1::basic_ofstream&lt;char, std::__1::char_traits&lt;char&gt; &gt;&amp;, AvlNode&lt;Contact&gt; const*, int) const"
+                  moduleName = "cs300_hw3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dorukdulger/Desktop/cs300_hw3/cs300_hw3/AvlTree.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "359"
+                  endingLineNumber = "359"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "62D2DBC7-86CD-43BE-BC80-F84625031B80"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "cs300_hw3/AvlTree.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "382"
+            endingLineNumber = "382"
+            landmarkName = "checkBalanceHelper(node)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

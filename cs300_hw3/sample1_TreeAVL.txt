@@ -1,0 +1,17 @@
+|__JOHN WATSON
+  |--CHARLES SMITH
+  |  |--ASHLEY TIRADO
+  |  |  |--ASHLEY JEPSEN
+  |  |  |__CHARITY RUGGIERO
+  |  |     |--CAROLYN JOHNSON
+  |  |__FRANK THOMPSON
+  |     |--ELBERT WOMACK
+  |     |__HAROLD STENSETH
+  |__RHONDA CASHION
+     |--PAMELA ALEXANDER
+     |  |--NORMAN HO
+     |  |__PATRICIA GOODE
+     |__SHARON PERSAUD
+        |--ROGER JOCHIM
+        |__SHIRLEY MICKELSON
+

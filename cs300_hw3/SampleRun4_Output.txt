@@ -1,0 +1,172 @@
+Please enter the contact file name: PhoneBook-Sample4.txt
+Loading the phonebook into a BST.
+Phonebook creation in BST took 6509 milliseconds. . .
+The tree is not balanced
+The heights of BST are for left: 340 and right: 2302
+loading the phonebook into an AVL
+Phonebook creation in AVL took 0 milliseconds. . .
+The tree is balanced
+The heights of AVL are for left: 10 and right: 11
+
+
+Choose which action to perform from 1 to 6:
+1 - Search a phonebook contact
+2 - Adding a phonebook contact
+3 - Deleting a phonebook contact
+4 - Print the phonebook to a file(inorder)
+    Print the phonebook to a file(preorder)
+5 - Draw the phonebook as a Tree to a file
+6 - Press 6 to exit
+1
+
+Search for a contact: Ada Lenard
+
+Searching an item in the phonebook (BST) . . .
+
+Phonebook: Searching for: (ADA LENARD)
+====================================
+ADA LENARD +905580633219 Izmir
+
+Searching an item in the phonebook (AVL) . . .
+
+Phonebook: Section: (ADA LENARD)
+====================================
+ADA LENARD +905580633219 Izmir
+
+The search in BST took 68800 nanoseconds. . .
+The search in AVL took 40200 nanoseconds. . .
+
+Choose which action to perform from 1 to 6:
+1 - Search a phonebook contact
+2 - Adding a phonebook contact
+3 - Deleting a phonebook contact
+4 - Print the phonebook to a file(inorder)
+    Print the phonebook to a file(preorder)
+5 - Draw the phonebook as a Tree to a file
+6 - Press 6 to exit
+1
+
+Search for a contact: BARBARA JOHNSON
+
+Searching an item in the phonebook (BST) . . .
+
+Phonebook: Searching for: (BARBARA JOHNSON)
+====================================
+BARBARA JOHNSON +905563804736 Ankara
+
+Searching an item in the phonebook (AVL) . . .
+
+Phonebook: Section: (BARBARA JOHNSON)
+====================================
+BARBARA JOHNSON +905563804736 Ankara
+
+The search in BST took 120900 nanoseconds. . .
+The search in AVL took 37900 nanoseconds. . .
+
+Choose which action to perform from 1 to 6:
+1 - Search a phonebook contact
+2 - Adding a phonebook contact
+3 - Deleting a phonebook contact
+4 - Print the phonebook to a file(inorder)
+    Print the phonebook to a file(preorder)
+5 - Draw the phonebook as a Tree to a file
+6 - Press 6 to exit
+3
+
+Deleting an item from the phonebook . . .
+Enter the fullname of the contact to be deleted: Heather Scharringhausen
+
+Deleted succcessfully. . .
+
+Deletion from the Binary Tree took 700 nanoseconds. . .
+Deletion from AVL Tree took 59200 nanoseconds. . .
+
+Choose which action to perform from 1 to 6:
+1 - Search a phonebook contact
+2 - Adding a phonebook contact
+3 - Deleting a phonebook contact
+4 - Print the phonebook to a file(inorder)
+    Print the phonebook to a file(preorder)
+5 - Draw the phonebook as a Tree to a file
+6 - Press 6 to exit
+1
+
+Search for a contact: Heather Scharringhausen
+
+Searching an item in the phonebook (BST) . . .
+
+Phonebook: Searching for: (HEATHER SCHARRINGHAUSEN)
+====================================
+HEATHER SCHARRINGHAUSEN +905582295483 Bursa
+
+Searching an item in the phonebook (AVL) . . .
+
+Phonebook: Section: (HEATHER SCHARRINGHAUSEN)
+====================================
+
+The search in BST took 5467300 nanoseconds. . .
+The search in AVL took 23000 nanoseconds. . .
+
+Choose which action to perform from 1 to 6:
+1 - Search a phonebook contact
+2 - Adding a phonebook contact
+3 - Deleting a phonebook contact
+4 - Print the phonebook to a file(inorder)
+    Print the phonebook to a file(preorder)
+5 - Draw the phonebook as a Tree to a file
+6 - Press 6 to exit
+2
+
+Enter the information of the contact to be added:
+Name: Heather Scharringhausen
+
+Tel: +905582295483
+
+City: bURSA
+
+Adding an item to the phonebook BST . . .
+====================================
+Contact has been added successfully to the BST
+
+Adding an item to the phonebook (AVL) . . .
+====================================
+Contact has been added successfully to the AVL Tree
+
+Adding a contact to the Binary Tree took 5506700 nanoseconds. . .
+Adding a contact to the AVL Tree took 32200 nanoseconds. . .
+
+Choose which action to perform from 1 to 6:
+1 - Search a phonebook contact
+2 - Adding a phonebook contact
+3 - Deleting a phonebook contact
+4 - Print the phonebook to a file(inorder)
+    Print the phonebook to a file(preorder)
+5 - Draw the phonebook as a Tree to a file
+6 - Press 6 to exit
+1
+
+Search for a contact: hEATHER sC
+
+Searching an item in the phonebook (BST) . . .
+
+Phonebook: Searching for: (HEATHER SC)
+====================================
+HEATHER SCHARRINGHAUSEN +905582295483 Bursa
+
+Searching an item in the phonebook (AVL) . . .
+
+Phonebook: Section: (HEATHER SC)
+====================================
+HEATHER SCHARRINGHAUSEN +905582295483 bURSA
+
+The search in BST took 5295000 nanoseconds. . .
+The search in AVL took 31000 nanoseconds. . .
+
+Choose which action to perform from 1 to 6:
+1 - Search a phonebook contact
+2 - Adding a phonebook contact
+3 - Deleting a phonebook contact
+4 - Print the phonebook to a file(inorder)
+    Print the phonebook to a file(preorder)
+5 - Draw the phonebook as a Tree to a file
+6 - Press 6 to exit
